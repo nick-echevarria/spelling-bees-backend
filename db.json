@@ -1,0 +1,104 @@
+{
+    "word list": [
+      {
+        "id": 1,
+        "word": "quarantine",
+        "definition": "a restraint upon the activities or communication of persons or the transport of goods designed to prevent the spread of disease or pests",
+        "pronounciation": "ˈkwȯr-ən-ˌtēn",
+        "alternate pronunctiation": "ˈkwär-",
+        "example sentence": "These coronavirus self-help guides offer tips on how to maintain mental health and relationships under quarantine.",
+        "part of speech": "noun",
+        "language of origin": "Latin"                
+      },
+      {
+        "id": 2,
+        "word": "apparatus",
+        "definition": "a set of materials or equipment designed for a particular use",
+        "pronounciation": "ˌa-pə-ˈra-təs",
+        "alternate pronunctiation": "-ˈrā-",
+        "example sentence": "Chapman said the rocket appeared to rub against the launch apparatus, which could have torn the parachutes.",
+        "part of speech": "noun",
+        "language of origin": "Latin"               
+      },
+      {
+        "id": 3,
+        "word": "mirage",
+        "definition": "an optical effect that is sometimes seen at sea, in the desert, or over a hot pavement, that may have the appearance of a pool of water or a mirror in which distant objects are seen inverted, and that is caused by the bending or reflection of rays of light by a layer of heated air of varying density",
+        "pronounciation": "mə-ˈräzh",
+        "alternate pronunctiation": "",
+        "example sentence": "The sailor was overjoyed when he realized what he thought was a mirage was an actual island.",
+        "part of speech": "noun",
+        "language of origin": "Latin / French"                
+      },
+      {
+        "id": 4,
+        "word": "susceptible",
+        "definition": "open, subject, or unresistant to some stimulus, influence, or agency",
+        "pronounciation": "sə-ˈsep-tə-bəl",
+        "alternate pronunctiation": "",
+        "example sentence": "Some people are more susceptible to depression during the winter because of reduced exposure to sunlight.",
+        "part of speech": "adjective",
+        "language of origin": "Latin"                
+      },
+      {
+        "id": 5,
+        "word": "obsequious",
+        "definition": "marked by or exhibiting a fawning attentiveness",
+        "pronounciation": "əb-ˈsē-kwē-əs",
+        "alternate pronunctiation": "äb-",
+        "example sentence": "She's constantly followed by obsequious assistants who will do anything she tells them to.",
+        "part of speech": "adjective",
+        "language of origin": "Latin"                
+      },
+      {
+        "id": 6,
+        "word": "asynchronous",
+        "definition": "not simultaneous or concurrent in time ",
+        "pronounciation": "(ˌ)ā-ˈsiŋ-krə-nəs",
+        "alternate pronunctiation": "-ˈsin-",
+        "example sentence": "Not only have audiences fragmented across a larger range of TV shows and platforms, but most of their viewing is asynchronous and private.",
+        "part of speech": "adjective",
+        "language of origin": "Greek"                
+      },
+      {
+        "id": 7,
+        "word": "clandenstine",
+        "definition": "marked by, held in, or conducted with secrecy",
+        "pronounciation": "klan-ˈde-stən",
+        "alternate pronunctiation": "-ˌstīn",
+        "example sentence": "I took a clandestine peek at the price tag on the diamond necklace.",
+        "part of speech": "adjective",
+        "language of origin": "Latin"                
+      },
+      {
+        "id": 8,
+        "word": "programming",
+        "definition": "the process of preparing an instructional program for a device (such as a computer)",
+        "pronounciation": "ˈprō-ˌgra-miŋ",
+        "alternate pronunctiation": "-grə-",
+        "example sentence": "The news conference interrupted regular television programming.",
+        "part of speech": "noun",
+        "language of origin": ""                
+      },
+      {
+        "id": 9,
+        "word": "serendipity",
+        "definition": "the faculty or phenomenon of finding valuable or agreeable things not sought for",
+        "pronounciation": "ˌser-ən-ˈdi-pə-tē",
+        "alternate pronunctiation": "",
+        "example sentence": "They found each other by pure serendipity.",
+        "part of speech": "noun",
+        "language of origin": ""                
+      },
+      {
+        "id": 10,
+        "word": "allusion",
+        "definition": "the act of making an indirect reference to something",
+        "pronounciation": "ə-ˈlü-zhən",
+        "alternate pronunctiation": "",
+        "example sentence": "The lyrics contain biblical allusions.",
+        "part of speech": "noun",
+        "language of origin": "Latin"                
+      }
+    ]
+  }

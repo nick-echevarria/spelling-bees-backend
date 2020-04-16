@@ -59,7 +59,7 @@ Word.create(
       language_of_origin: "Greek"       
     )
 Word.create(
-      word: "clandenstine", 
+      word: "clandestine", 
       definition: "marked by, held in, or conducted with secrecy",
       pronunciation: "klan-ˈde-stən",
       alternate_pronunciation: "-ˌstīn",
